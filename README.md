@@ -55,7 +55,7 @@
 1. Arduino IDE 中点击：**项目 → 加载库 → 添加 .ZIP 库…**
 2. 选择本仓库中的 `RFID.zip`
 
-**方式 B —— 使用 MFRC522 库（不推荐，）**
+**方式 B —— 使用 MFRC522 库（不推荐，疑似有bug）**
 1. Arduino IDE 中点击：**工具 → 管理库…**
 2. 搜索 `MFRC522`（作者 GithubCommunity）并安装
 
