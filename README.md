@@ -61,7 +61,7 @@
 
 ### 3. 烧录程序
 
-1. 用 Arduino IDE 打开 `SZU_FREE_HOT_WATER_CARD/SZU_FREE_HOT_WATER_CARD.ino`
+1. 用 Arduino IDE 打开 `SZU_Unlimited_Water_Card/SZU_Unlimited_Water_Card.ino`
 2. 选择开发板：**工具 → 开发板 → Arduino Uno**
 3. 选择端口：**工具 → 端口**
 4. 点击 **上传**（→ 箭头）
